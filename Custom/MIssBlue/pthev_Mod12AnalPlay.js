@@ -31,7 +31,7 @@ function main()
     edge("%Edge%");
     CMessage("We pay a lot of attention to your %Cock% don\'t we");
     CMessage("But there are other things we can do to deepen the ache in your %Balls%");
-    CMessage("Other... parts of your body to explore");
+    CMessage("Other... parts of the body to explore");
     let answer0 = getInput("Would you like that?");
     if (answer0.isLike("yes"))
     {
